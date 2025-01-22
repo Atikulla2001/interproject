@@ -1,0 +1,22 @@
+.container{
+    width: 1170px;
+    margin: 0 auto;
+}
+
+main{
+    background:url("../images/Vector.png");
+}
+
+
+@mixin button($theme: #FF3A44) {
+    background: $theme;
+    font-family: "Poppins", serif;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 16px;
+    color: #FFFFFF;
+    padding: 13px 25px;
+    border-radius: 50px 50px 50px 50px;  
+    border: none;
+    
+}

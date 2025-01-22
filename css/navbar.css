@@ -1,0 +1,10 @@
+ul {
+  gap: 39px;
+}
+ul li a {
+  font-family: "Poppins", serif;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 16px;
+  color: #333333 !important;
+}/*# sourceMappingURL=navbar.css.map */
