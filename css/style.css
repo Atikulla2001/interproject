@@ -217,4 +217,244 @@ button {
   text-align: center;
   margin: 0 auto;
   padding-bottom: 40px;
+}
+#happy .happy_text {
+  margin-top: 40px;
+  margin-bottom: 90px;
+}
+#happy .happy_text h3 {
+  width: 185px;
+  font-family: "Poppins", serif;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 28px;
+  color: #D8D8D8;
+  margin-left: 20px;
+}
+#happy .happy_text .happyone {
+  font-family: "Poppins", serif;
+  font-weight: 700;
+  font-size: 38px;
+  line-height: 50px;
+  color: #FFBD2F;
+}
+#happy .happy_text p {
+  width: 249px;
+  font-family: "Poppins", serif;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 25px;
+  color: #D8D8D8;
+  margin-left: 60px;
+}
+#happy .happy_text .tow {
+  width: 249px;
+  font-family: "Poppins", serif;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 25px;
+  color: #D8D8D8;
+  margin-left: 66px;
+}
+#happy .happy_text .three {
+  width: 249px;
+  font-family: "Poppins", serif;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 25px;
+  color: #D8D8D8;
+  margin-left: 68px;
+}
+
+#chart .chartbox {
+  width: 450px;
+  height: 120px;
+  border-radius: 16px;
+  background: #0C5F79;
+  margin-top: 40px;
+}
+
+#chart .chartbox .circle {
+  width: 25px;
+  height: 25px;
+  border-radius: 100px;
+  background: #0489CA;
+  margin-left: 25px;
+  margin-top: 18px;
+}
+
+#chart .chartbox .circle h4 {
+  font-family: "Poppins", serif;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 18px;
+  color: #FFFFFF;
+  text-align: center;
+  margin-top: 5px;
+}
+
+#chart .chartbox .chart_textarea h3 {
+  font-family: "Poppins", serif;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 18px;
+  color: #FFFFFF;
+  margin-left: 10px;
+  margin-top: 5px;
+  padding-top: 19px;
+}
+
+#chart .chartbox p {
+  width: 340px;
+  font-family: "Poppins", serif;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 25px;
+  color: #D0D0D0;
+  margin-left: 60px;
+}
+
+#chart .chartbox02 {
+  width: 450px;
+  height: 120px;
+  border-radius: 16px;
+  background: #0C5F79;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+#chart .chartbox02 .circle {
+  width: 25px;
+  height: 25px;
+  border-radius: 100px;
+  background: #FFBD2F;
+  margin-left: 25px;
+  margin-top: 18px;
+}
+
+#chart .chartbox02 .circle h4 {
+  font-family: "Poppins", serif;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 18px;
+  color: #FFFFFF;
+  text-align: center;
+  margin-top: 5px;
+}
+
+#chart .chartbox02 .chart_textarea h3 {
+  font-family: "Poppins", serif;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 18px;
+  color: #FFFFFF;
+  margin-left: 10px;
+  margin-top: 5px;
+  padding-top: 19px;
+}
+
+#chart .chartbox02 p {
+  width: 340px;
+  font-family: "Poppins", serif;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 25px;
+  color: #D0D0D0;
+  margin-left: 60px;
+}
+
+#chart .chartbox03 {
+  width: 450px;
+  height: 120px;
+  border-radius: 16px;
+  background: #0C5F79;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+#chart .chartbox03 .circle {
+  width: 25px;
+  height: 25px;
+  border-radius: 100px;
+  background: #FF3A44;
+  margin-left: 25px;
+  margin-top: 18px;
+}
+
+#chart .chartbox03 .circle h4 {
+  font-family: "Poppins", serif;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 18px;
+  color: #FFFFFF;
+  text-align: center;
+  margin-top: 5px;
+}
+
+#chart .chartbox03 .chart_textarea h3 {
+  font-family: "Poppins", serif;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 18px;
+  color: #FFFFFF;
+  margin-left: 10px;
+  margin-top: 5px;
+  padding-top: 19px;
+}
+
+#chart .chartbox03 p {
+  width: 340px;
+  font-family: "Poppins", serif;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 25px;
+  color: #D0D0D0;
+  margin-left: 60px;
+}
+
+#chart .chart_box {
+  width: 665px;
+  background: #0C5F79;
+  border-radius: 25px;
+}
+#chart .chart_box img {
+  padding: 33px 27px;
+}
+
+#help {
+  margin-top: 57px;
+  padding-bottom: 257px;
+}
+
+#help .helpbox {
+  width: 1170px;
+  border-radius: 45px;
+  background: #0C5F79;
+}
+
+#help .help_text h2 {
+  width: 519px;
+  font-family: "Poppins", serif;
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 60px;
+  color: #FFFFFF;
+  padding-top: 84px;
+  margin-left: 114px;
+}
+
+#help .help_text button {
+  margin-bottom: 75px;
+  margin-left: 114px;
+  margin-top: 30px;
+}
+
+#help p {
+  width: 398px;
+  font-family: "Poppins", serif;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 28px;
+  color: #FFFFFF;
+  margin-top: 108px;
 }/*# sourceMappingURL=style.css.map */
